@@ -1,2 +1,2 @@
 # NodeJS_Assesment2
-Nodejs App Regex 
+Nodejs App for Extracting Data From Sentences Using Regex
